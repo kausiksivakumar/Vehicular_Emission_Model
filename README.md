@@ -1,4 +1,4 @@
-ArimaKausik - This is my previous github repository
+_ArimaKausik is my previous github repository_
 # Vehicular_Emission_Model
 This project is an artificial neural network framework used to map vehicular parameters and emissions, over which a genetic optimization algorithm is run to optimize these input parameters corresponding to least emissions while maintaining vehicle performance. 
 
