@@ -1,4 +1,4 @@
-# Vehicular_Emission_Model
+# Vehicular Emission Model
 This project is an artificial neural network framework used to map vehicular parameters and emissions, over which a genetic optimization algorithm is run to optimize these input parameters corresponding to least emissions while maintaining vehicle performance. 
 
 # Vehicular_Input_Parameters
@@ -7,6 +7,10 @@ This project is an artificial neural network framework used to map vehicular par
 3) Exhaust Gas recirculation
 4) Injection Pressure
 5) Indicated Mean Effective Pressure (Maximized in fitness function to maintain performance - throttle position)
+
+#To run
+Run Neural_Network.py  to train the weights
+Run Genetic_algorithm.py using the loaded weights of Neural_Network 
 
 # Emissions modeled
 1) NOx
